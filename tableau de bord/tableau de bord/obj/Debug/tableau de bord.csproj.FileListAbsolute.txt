@@ -1,0 +1,427 @@
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.AssemblyReference.cache
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Form1.resources
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Properties.Resources.resources
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.GenerateResource.cache
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CoreCompileInputs.cache
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe.config
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\bin\Debug\tableau de bord.pdb
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.dll
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.xml
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau .77FF0FE6.Up2Date
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau de bord.exe
+C:\Users\jbevilacqua\source\repos\tableau de bord\tableau de bord\obj\Debug\tableau de bord.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\tableau de bord.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.AssemblyReference.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Form1.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Properties.Resources.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.GenerateResource.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CoreCompileInputs.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau de bord.exe
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau de bord.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Buffers.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Memory.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Buffers.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Memory.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\qpdf.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\qpdf.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\QuestPDF.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\bin\Debug\QuestPDF.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\tableau de bord\tableau de bord\obj\Debug\tableau .77FF0FE6.Up2Date
+X:\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.AssemblyReference.cache
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Form1.resources
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Properties.Resources.resources
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet1.resources
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet2.resources
+X:\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.GenerateResource.cache
+X:\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CoreCompileInputs.cache
+X:\tableau de bord\tableau de bord\obj\Debug\tableau de bord.exe
+X:\tableau de bord\tableau de bord\obj\Debug\tableau de bord.pdb
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\qpdf.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\qpdf.dll
+X:\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+X:\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe.config
+X:\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe
+X:\tableau de bord\tableau de bord\bin\Debug\tableau de bord.pdb
+X:\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.dll
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+X:\tableau de bord\tableau de bord\bin\Debug\QuestPDF.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Buffers.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Memory.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.dll
+X:\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.pdb
+X:\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.xml
+X:\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+X:\tableau de bord\tableau de bord\bin\Debug\QuestPDF.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Buffers.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Memory.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.xml
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet3.resources
+X:\tableau de bord\tableau de bord\obj\Debug\tableau .77FF0FE6.Up2Date
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet5.resources
+X:\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet4.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\qpdf.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\qpdf.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe.config
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.pdb
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\QuestPDF.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Buffers.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Memory.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.dll
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\QuestPDF.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Buffers.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Memory.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.xml
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.AssemblyReference.cache
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Form1.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Properties.Resources.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet1.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet2.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet3.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet4.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet5.resources
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.GenerateResource.cache
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CoreCompileInputs.cache
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau .77FF0FE6.Up2Date
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.exe
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.pdb
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\qpdf.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\qpdf.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe.config
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.pdb
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\QuestPDF.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Buffers.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Memory.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.dll
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.pdb
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\QuestPDF.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Buffers.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Memory.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.xml
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.AssemblyReference.cache
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Form1.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Properties.Resources.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet1.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet2.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet3.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet4.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet5.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet6.resources
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.GenerateResource.cache
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CoreCompileInputs.cache
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau .77FF0FE6.Up2Date
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.exe
+X:\Downloads\tableau de bord\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.pdb
+D:\Cours\saé\saé24\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet6.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libcrypto.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libjpeg.so.8
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libqpdf.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libcrypto.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libjpeg.so.8
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libcrypto.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libjpeg.so.8
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libqpdf.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libcrypto.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libjpeg.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libcrypto.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libjpeg.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libqpdf.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libstdc++-6.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\qpdf.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libstdc++-6.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\qpdf.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe.config
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.exe
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\tableau de bord.pdb
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\QuestPDF.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Buffers.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Memory.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.dll
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.pdb
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\ICSharpCode.SharpZipLib.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Options.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\QuestPDF.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Buffers.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Data.SQLite.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Memory.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Numerics.Vectors.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Security.Cryptography.Pkcs.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\bin\Debug\System.ValueTuple.xml
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.AssemblyReference.cache
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.SuggestedBindingRedirects.cache
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Form1.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.Properties.Resources.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet1.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet2.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet3.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet4.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet5.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau_de_bord.volet6.resources
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.GenerateResource.cache
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CoreCompileInputs.cache
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.csproj.CopyComplete
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.exe
+X:\pompier_fini\tableau de bord\tableau de bord\tableau de bord\obj\Debug\tableau de bord.pdb

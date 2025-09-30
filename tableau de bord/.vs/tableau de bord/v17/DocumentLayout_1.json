@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B20016-48B1-42D6-AB27-8DA6E25F774E}|tableau de bord\\tableau de bord.csproj|C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5B20016-48B1-42D6-AB27-8DA6E25F774E}|tableau de bord\\tableau de bord.csproj|solutionrelative:tableau de bord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B20016-48B1-42D6-AB27-8DA6E25F774E}|tableau de bord\\tableau de bord.csproj|c:\\users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5B20016-48B1-42D6-AB27-8DA6E25F774E}|tableau de bord\\tableau de bord.csproj|solutionrelative:tableau de bord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|tableau de bord||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5B20016-48B1-42D6-AB27-8DA6E25F774E}|tableau de bord\\tableau de bord.csproj|c:\\users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\Form1.cs",
+              "RelativeDocumentMoniker": "tableau de bord\\Form1.cs",
+              "ToolTip": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\Form1.cs",
+              "RelativeToolTip": "tableau de bord\\Form1.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv2kAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:13:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tableau de bord",
+              "DocumentMoniker": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\tableau de bord.csproj",
+              "RelativeDocumentMoniker": "tableau de bord\\tableau de bord.csproj",
+              "ToolTip": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\tableau de bord.csproj",
+              "RelativeToolTip": "tableau de bord\\tableau de bord.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T14:05:39.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\Form1.cs",
+              "RelativeDocumentMoniker": "tableau de bord\\Form1.cs",
+              "ToolTip": "C:\\Users\\jbevilacqua\\source\\repos\\tableau de bord\\tableau de bord\\Form1.cs [Design]",
+              "RelativeToolTip": "tableau de bord\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:58:54.294Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
